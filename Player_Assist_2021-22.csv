@@ -1,0 +1,279 @@
+,Player,Country,Team,Assists
+0,Mo Salah,Egypt,Liverpool FC ,13
+1,Trent Alexander-Arnold,England,Liverpool FC ,12
+2,Harvey Barnes,England,Leicester City ,10
+3,Jarrod Bowen,England,West Ham United ,10
+4,Mason Mount,England,Chelsea FC ,10
+5,Andy Robertson,Scotland,Liverpool FC ,10
+6,Reece James,England,Chelsea FC ,9
+7,Harry Kane,England,Tottenham Hotspur ,9
+8,Paul Pogba,France,Manchester United ,9
+9,Michail Antonio,Jamaica,West Ham United ,8
+10,Kevin De Bruyne,Belgium,Manchester City ,8
+11, Gabriel Jesus,Brazil,Manchester City ,8
+12,Dejan Kulusevski,Sweden,Tottenham Hotspur ,8
+13,James Maddison,England,Leicester City ,8
+14, João Cancelo,Portugal,Manchester City ,7
+15,Alexandre Lacazette,France,Arsenal FC ,7
+16,Bryan Mbeumo,Cameroon,Brentford FC ,7
+17,Bukayo Saka,England,Arsenal FC ,7
+18,Heung-min Son,South Korea,Tottenham Hotspur ,7
+19,Saïd Benrahma,Algeria,West Ham United ,6
+20, Bruno Fernandes,Portugal,Manchester United ,6
+21,Emiliano Buendia,Argentina,Aston Villa ,6
+22,Emmanuel Dennis,Nigeria,Watford FC ,6
+23, Gabriel Martinelli,Brazil,Arsenal FC ,6
+24,Danny Ings,England,Aston Villa ,6
+25, Lucas Moura,Brazil,Tottenham Hotspur ,6
+26,Phil Foden,England,Manchester City ,5
+27,Jordan Henderson,England,Liverpool FC ,5
+28,Kelechi Iheanacho,Nigeria,Leicester City ,5
+29, Kiko Femenía,Spain,Watford FC ,5
+30,Mateo Kovačić,Croatia,Chelsea FC ,5
+31,Riyad Mahrez,Algeria,Manchester City ,5
+32,Michael Olise,France,Crystal Palace ,5
+33,Nathan Redmond,England,Southampton FC ,5
+34, Richarlison,Brazil,Everton FC ,5
+35,Allan Saint-Maximin,France,Newcastle United ,5
+36,Raheem Sterling,England,Manchester City ,5
+37,Ivan Toney,England,Brentford FC ,5
+38,James Ward-Prowse,England,Southampton FC ,5
+39, Alex Telles,Brazil,Manchester United ,4
+40,Rodrigo Bentancur,Uruguay,Tottenham Hotspur ,4
+41, Bernardo Silva,Portugal,Manchester City ,4
+42,Vladimír Coufal,Czech Republic,West Ham United ,4
+43,Lucas Digne,France,Aston Villa Everton FC ,4
+44, Diogo Jota,Portugal,Liverpool FC ,4
+45,Matt Doherty,Ireland,Tottenham Hotspur ,4
+46,Abdoulaye Doucouré,Mali,Everton FC ,4
+47,Christian Eriksen,Denmark,Brentford FC ,4
+48, Fred,Brazil,Manchester United ,4
+49,Demarai Gray,Jamaica,Everton FC ,4
+50,Pascal Groß,Germany,Brighton & Hove Albion ,4
+51,İlkay Gündoğan,Germany,Manchester City ,4
+52,Dan James,Wales,Leeds United Manchester United ,4
+53,Raúl Jiménez,Mexico,Wolverhampton Wanderers ,4
+54,N'Golo Kanté,France,Chelsea FC ,4
+55, Marcos Alonso,Spain,Chelsea FC ,4
+56,Nemanja Matić,Serbia,Manchester United ,4
+57,John McGinn,Scotland,Aston Villa ,4
+58,Enock Mwepu,Zambia,Brighton & Hove Albion ,4
+59,Christian Nørgaard,Denmark,Brentford FC ,4
+60,Martin Ødegaard,Norway,Arsenal FC ,4
+61,Declan Rice,England,West Ham United ,4
+62, Roberto Firmino,Brazil,Liverpool FC ,4
+63, Rúben Dias,Portugal,Manchester City ,4
+64, Thiago,Spain,Liverpool FC ,4
+65,Youri Tielemans,Belgium,Leicester City ,4
+66,Oleksandr Zinchenko,Ukraine,Manchester City ,4
+67,Ché Adams,Scotland,Southampton FC ,3
+68,Kristoffer Ajer,Norway,Brentford FC ,3
+69,Joachim Andersen,Denmark,Crystal Palace ,3
+70,Jordan Ayew,Ghana,Crystal Palace ,3
+71, Ayoze Pérez,Spain,Leicester City ,3
+72,Josh Brownhill,England,Burnley FC ,3
+73,Matty Cash,Poland,Aston Villa ,3
+74, Chiquinho,Portugal,Wolverhampton Wanderers ,3
+75,Aaron Cresswell,England,West Ham United ,3
+76, Cristiano Ronaldo,Portugal,Manchester United ,3
+77,Patson Daka,Zambia,Leicester City ,3
+78,Luis Díaz,Colombia,Liverpool FC ,3
+79, Douglas Luiz,Brazil,Aston Villa ,3
+80,Odsonne Édouard,France,Crystal Palace ,3
+81,Ryan Fraser,Scotland,Newcastle United ,3
+82,Conor Gallagher,England,Crystal Palace ,3
+83,Jack Grealish,England,Manchester City ,3
+84,Kai Havertz,Germany,Chelsea FC ,3
+85,Joshua King,Norway,Watford FC ,3
+86,Manuel Lanzini,Argentina,West Ham United ,3
+87,Joel Matip,Cameroon,Liverpool FC ,3
+88,James McArthur,Scotland,Crystal Palace ,3
+89,Tyrone Mings,England,Aston Villa ,3
+90,Jakub Moder,Poland,Brighton & Hove Albion ,3
+91, Pablo Fornals,Spain,West Ham United ,3
+92, Philippe Coutinho,Brazil,Aston Villa ,3
+93,Daniel Podence,Portugal,Wolverhampton Wanderers ,3
+94,Teemu Pukki,Finland,Norwich City ,3
+95, Raphinha,Brazil,Leeds United ,3
+96, Reguilón,Spain,Tottenham Hotspur ,3
+97, Ricardo Pereira,Portugal,Leicester City ,3
+98,Jadon Sancho,England,Manchester United ,3
+99,Luke Shaw,England,Manchester United ,3
+100,Charlie Taylor,England,Burnley FC ,3
+101,Kieran Tierney,Scotland,Arsenal FC ,3
+102,Leandro Trossard,Belgium,Brighton & Hove Albion ,3
+103,Matěj Vydra,Czech Republic,Burnley FC ,3
+104,Wout Weghorst,Netherlands,Burnley FC ,3
+105,Ashley Westwood,England,Burnley FC ,3
+106,Hakim Ziyech,Morocco,Chelsea FC ,3
+107,Max Aarons,England,Norwich City ,2
+108,Rayan Aït Nouri,France,Wolverhampton Wanderers ,2
+109,Marc Albrighton,England,Leicester City ,2
+110, Allan,Brazil,Everton FC ,2
+111,Adam Armstrong,England,Southampton FC ,2
+112,Luke Ayling,England,Leeds United ,2
+113, Azpilicueta,Spain,Chelsea FC ,2
+114,Leon Bailey,Jamaica,Aston Villa ,2
+115,Patrick Bamford,England,Leeds United ,2
+116,Yves Bissouma,Mali,Brighton & Hove Albion ,2
+117,Dominic Calvert-Lewin,England,Everton FC ,2
+118,Tom Cleverley,England,Watford FC ,2
+119,Craig Dawson,England,West Ham United ,2
+120,Leander Dendoncker,Belgium,Wolverhampton Wanderers ,2
+121,Kiernan Dewsbury-Hall,England,Leicester City ,2
+122,Ibrahima Diallo,France,Southampton FC ,2
+123,Anthony Elanga,Sweden,Manchester United ,2
+124,Mohamed Elneny,Egypt,Arsenal FC ,2
+125,Mohamed Elyounoussi,Norway,Southampton FC ,2
+126,Joe Gelhardt,England,Leeds United ,2
+127,Anthony Gordon,England,Everton FC ,2
+128,Sam Greenwood,England,Leeds United ,2
+129,Cucho Hernández,Colombia,Watford FC ,2
+130,Pierre-Emile Højbjerg,Denmark,Tottenham Hotspur ,2
+131,Callum Hudson-Odoi,England,Chelsea FC ,2
+132,Alex Iwobi,Nigeria,Everton FC ,2
+133, Jorginho,Italy,Chelsea FC ,2
+134, Junior Firpo,Spain,Leeds United ,2
+135,Michael Keane,England,Everton FC ,2
+136,Mateusz Klich,Poland,Leeds United ,2
+137,Tariq Lamptey,Ghana,Brighton & Hove Albion ,2
+138,Victor Lindelöf,Sweden,Manchester United ,2
+139,Ruben Loftus-Cheek,England,Chelsea FC ,2
+140,Matthew Lowton,England,Burnley FC ,2
+141,Alexis Mac Allister,Argentina,Brighton & Hove Albion ,2
+142,Sadio Mané,Senegal,Liverpool FC ,2
+143, Manquillo,Spain,Newcastle United ,2
+144,Solly March,England,Brighton & Hove Albion ,2
+145,Neal Maupay,France,Brighton & Hove Albion ,2
+146,Tyrick Mitchell,England,Crystal Palace ,2
+147,Jacob Murphy,England,Newcastle United ,2
+148,Mathias Normann,Norway,Norwich City ,2
+149, Oriol Romeu,Spain,Southampton FC ,2
+150,Nicolas Pépé,Ivory Coast,Arsenal FC ,2
+151,Christian Pulišić,USA,Chelsea FC ,2
+152,Marcus Rashford,England,Manchester United ,2
+153,Milot Rashica,Kosovo,Norwich City ,2
+154,Matt Ritchie,Scotland,Newcastle United ,2
+155, Rodri,Spain,Manchester City ,2
+156,Jay Rodriguez,England,Burnley FC ,2
+157, Rúben Neves,Portugal,Wolverhampton Wanderers ,2
+158,Ismaïla Sarr,Senegal,Watford FC ,2
+159,Fabian Schär,Switzerland,Newcastle United ,2
+160, Sergi Canós,Spain,Brentford FC ,2
+161,Ryan Sessegnon,England,Tottenham Hotspur ,2
+162,Emile Smith Rowe,England,Arsenal FC ,2
+163,James Tarkowski,England,Burnley FC ,2
+164,Andros Townsend,England,Everton FC ,2
+165,Kostas Tsimikas,Greece,Liverpool FC ,2
+166,Jamie Vardy,England,Leicester City ,2
+167,Kyle Walker,England,Manchester City ,2
+168,Kyle Walker-Peters,England,Southampton FC ,2
+169,Ollie Watkins,England,Aston Villa ,2
+170,Danny Welbeck,England,Brighton & Hove Albion ,2
+171,Granit Xhaka,Switzerland,Arsenal FC ,2
+172,Ashley Young,England,Aston Villa ,2
+173, Alisson,Brazil,Liverpool FC ,1
+174, André Gomes,Portugal,Everton FC ,1
+175,Pierre-Emerick Aubameyang,Gabon,Arsenal FC ,1
+176,Christian Benteke,Belgium,Crystal Palace ,1
+177,Steven Bergwijn,Netherlands,Tottenham Hotspur ,1
+178, Bruno Guimarães,Brazil,Newcastle United ,1
+179,Dan Burn,England,Brighton & Hove Albion Newcastle United ,1
+180,Moisés Caicedo,Ecuador,Brighton & Hove Albion ,1
+181,Craig Cathcart,Northern Ireland,Watford FC ,1
+182,Édinson Cavani,Uruguay,Manchester United ,1
+183, Cédric,Portugal,Arsenal FC ,1
+184,Trevoh Chalobah,England,Chelsea FC ,1
+185,Ben Chilwell,England,Chelsea FC ,1
+186,Carney Chukwuemeka,England,Aston Villa ,1
+187,Ciaran Clark,Ireland,Newcastle United ,1
+188,Nathaniel Clyne,England,Crystal Palace ,1
+189,Liam Cooper,Scotland,Leeds United ,1
+190,Maxwel Cornet,Ivory Coast,Burnley FC ,1
+191, Cucurella,Spain,Brighton & Hove Albion ,1
+192,Stuart Dallas,Northern Ireland,Leeds United ,1
+193,Ben Davies,Wales,Tottenham Hotspur ,1
+194,Issa Diop,France,West Ham United ,1
+195,Kieran Dowell,England,Norwich City ,1
+196,Anwar El Ghazi,Netherlands,Aston Villa Everton FC ,1
+197, Emerson Royal,Brazil,Tottenham Hotspur ,1
+198,Jonny Evans,Northern Ireland,Leicester City ,1
+199,Eberechi Eze,England,Crystal Palace ,1
+200, Fabinho,Brazil,Liverpool FC ,1
+201, Fernandinho,Brazil,Manchester City ,1
+202, Ferran Torres,Spain,Manchester City ,1
+203,Adam Forshaw,England,Leeds United ,1
+204,Marcus Forss,Finland,Brentford FC ,1
+205,Ben Foster,England,Watford FC ,1
+206,Saman Ghoddos,Iran,Brentford FC ,1
+207,Dimitris Giannoulis,Greece,Norwich City ,1
+208,Billy Gilmour,Scotland,Norwich City ,1
+209,Joe Gomez,England,Liverpool FC ,1
+210,Mason Greenwood,England,Manchester United ,1
+211,Jóhann Guðmundsson,Iceland,Burnley FC ,1
+212,Marc Guéhi,England,Crystal Palace ,1
+213,Jack Harrison,England,Leeds United ,1
+214,Mason Holgate,England,Everton FC ,1
+215,Will Hughes,England,Crystal Palace ,1
+216,Hee-chan Hwang,South Korea,Wolverhampton Wanderers ,1
+217,Adam Idah,Ireland,Norwich City ,1
+218,Pontus Jansson,Sweden,Brentford FC ,1
+219,Mathias Jensen,Denmark,Brentford FC ,1
+220, João Moutinho,Portugal,Wolverhampton Wanderers ,1
+221, João Pedro,Brazil,Watford FC ,1
+222, Joelinton,Brazil,Newcastle United ,1
+223,Curtis Jones,England,Liverpool FC ,1
+224, José Sá,Portugal,Wolverhampton Wanderers ,1
+225,Naby Keïta,Guinea,Liverpool FC ,1
+226, Kenedy,Brazil,Chelsea FC ,1
+227,Jonjoe Kenny,England,Everton FC ,1
+228,Cheikhou Kouyaté,Senegal,Crystal Palace ,1
+229,Emil Krafth,Sweden,Newcastle United ,1
+230,Juraj Kucka,Slovakia,Watford FC ,1
+231,Adam Lallana,England,Brighton & Hove Albion ,1
+232,Tino Livramento,England,Southampton FC ,1
+233,Sean Longstaff,England,Newcastle United ,1
+234,Adam Masina,Morocco,Watford FC ,1
+235,Arthur Masuaku,Congo DR,West Ham United ,1
+236,Jean-Philippe Mateta,France,Crystal Palace ,1
+237,Dwight McNeil,England,Burnley FC ,1
+238,Scott McTominay,Scotland,Manchester United ,1
+239,James Milner,England,Liverpool FC ,1
+240,Tanguy Ndombèlé,France,Tottenham Hotspur ,1
+241, Nélson Semedo,Portugal,Wolverhampton Wanderers ,1
+242,Eddie Nketiah,England,Arsenal FC ,1
+243, Nuno Tavares,Portugal,Arsenal FC ,1
+244,Alex Oxlade-Chamberlain,England,Liverpool FC ,1
+245,Thomas Partey,Ghana,Arsenal FC ,1
+246, Pedro Neto,Portugal,Wolverhampton Wanderers ,1
+247,Romain Perraud,France,Southampton FC ,1
+248,Kalvin Phillips,England,Leeds United ,1
+249,Erik Pieters,Netherlands,Burnley FC ,1
+250,Ethan Pinnock,Jamaica,Brentford FC ,1
+251,Jacob Ramsey,England,Aston Villa ,1
+252,Connor Roberts,Wales,Burnley FC ,1
+253,Tyler Roberts,Wales,Leeds United ,1
+254, Rodrigo,Spain,Leeds United ,1
+255,Mads Roerslev,Denmark,Brentford FC ,1
+256,Salomón Rondón,Venezuela,Everton FC ,1
+257,Jonathan Rowe,England,Norwich City ,1
+258,Josh Sargent,USA,Norwich City ,1
+259,Jeffrey Schlupp,Ghana,Crystal Palace ,1
+260,Jonjo Shelvey,England,Newcastle United ,1
+261,Moussa Sissoko,France,Tottenham Hotspur Watford FC ,1
+262,Tomáš Souček,Czech Republic,West Ham United ,1
+263,Boubakary Soumaré,France,Leicester City ,1
+264,Matt Targett,England,Aston Villa Newcastle United ,1
+265,Nathan Tella,England,Southampton FC ,1
+266,Luke Thomas,England,Leicester City ,1
+267,Takehiro Tomiyasu,Japan,Arsenal FC ,1
+268, Trincão,Portugal,Wolverhampton Wanderers ,1
+269,Virgil van Dijk,Netherlands,Liverpool FC ,1
+270,Raphaël Varane,France,Manchester United ,1
+271,Joël Veltman,Netherlands,Brighton & Hove Albion ,1
+272,Timo Werner,Germany,Chelsea FC ,1
+273,Brandon Williams,England,Manchester United Norwich City ,1
+274,Neco Williams,Wales,Liverpool FC ,1
+275,Harry Winks,England,Tottenham Hotspur ,1
+276,Yoane Wissa,Congo DR,Brentford FC ,1
+277,Wilfried Zaha,Ivory Coast,Crystal Palace ,1
